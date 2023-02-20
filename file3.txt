@@ -1,2 +1,0 @@
-ini adalah file3 txt
-Menambah baris baru pada file 3

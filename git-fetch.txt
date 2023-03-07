@@ -1,0 +1,1 @@
+ini adalah contoh untuk git fetch

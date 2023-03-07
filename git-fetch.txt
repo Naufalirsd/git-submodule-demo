@@ -1,2 +1,3 @@
 ini adalah contoh untuk git fetch
 ini adalah contoh untuk git fetch baris kedua
+ini adalah contoh untuk git fetch baris ketiga

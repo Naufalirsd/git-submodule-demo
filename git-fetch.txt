@@ -1,1 +1,2 @@
 ini adalah contoh untuk git fetch
+ini adalah contoh untuk git fetch baris kedua
